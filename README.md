@@ -13,4 +13,4 @@ The end result is a database that is searchable by any combination of the field 
 
 ## Site preview
 
-![UFO Page Output](UFO html.png)
+![UFO Page Output](UFO_html_image.png)
