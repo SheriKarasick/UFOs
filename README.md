@@ -7,7 +7,9 @@ The end result is a database that is searchable by any combination of the field 
 
 ## Files uploaded 
 
-* [Zip file for UFO Package](UFOs.zip)
+* [Index file for viewing and inteacting with data](index.html)
+* [Zip file for UFO File Package](UFOs.zip)
+
 
 ## Site preview
 
